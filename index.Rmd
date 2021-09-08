@@ -1,0 +1,55 @@
+---
+title: "Note for book The big questions a short introduction to philosophy"
+author: "G.Peng"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  #bookdown::pdf_book: default
+---
+
+```{r global-options, include=FALSE}
+knitr::opts_chunk$set(fig.align='center', 
+                      fig.width = 5,
+                      fig.height = 5,
+                      fig.path='Figs/',
+                      echo=FALSE, warning=FALSE, message=FALSE)
+library(ggplot2)
+```
+
+# Introduction: Doing philosophy {-}
+
+## What is philosophy {-}
+Philosophy is refelction: listening to yourself
+and other people (including the great philosophers), and trying to understand
+and evaluate what it is that you hear, and what it is that you believe.
+
+
+## 2 crucial features {-}
+
+* __Articulation__: describe your idea and belief clearly with words and setences. To practice it, talk and discuss others with your ideas and belief.
+
+* __Arguments__ arguing for your views. well thought idea can stand to criticism
+
+### Other features {-}
+
+* __Analysis__: understanding an idea by distinguishing and clarifying its various
+components. For example, the idea of “murder” involves three component
+ideas: killing, wrongfulness, and intention.
+
+* __Synthesis__: gathering together different ideas into a single, unified vision.
+For example, the Pythagorean notion of the “harmony of the spheres” synthesizes
+mathematics, music, physics, and astronomy.
+
+Synthesis is the ultimate aim of philosophical reflection. Scattered ideas and arguments is philosophy.
+
+To do philosophy we need to read and adopt the view point from great philosopher. We need to borrow their arguments and examples as well as quoting them to support our own view point. In this practice our idea becomes more clear.
+
+Algorithm for doing philosophy
+
+1. Reflection. Think about what you've heard and believed.
+2. Describe your idea clearly
+3. Talk to others. Argue and defend your ideas
+4. Read great philosopher and use their view point to support you
+5. Analyze your ideas. Decompose it and compare it with other ideas.
+6. Gether idfferent ideas into a unified vision
